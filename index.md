@@ -18,6 +18,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 <td ALIGN=CENTER>　<img alt="" src="img/A.png" />　</td>
 <td ALIGN=CENTER>　<img alt="" src="img/B.png" />　</td>
 <td ALIGN=CENTER>　<img alt="" src="img/C.png" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/C.png" />　</td>
 </tr>
 <tr>
 <td ALIGN=CENTER>　<img alt="" src="img/A.png" />　</td>
@@ -30,6 +31,12 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 <td ALIGN=CENTER>　<audio
     controls
     src="final project/male/pure face/front.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>　</td>
+<td ALIGN=CENTER>　<audio
+    controls
+    src="final project/male/audio supervise/front.wav">
         Your browser does not support the
         <code>audio</code> element.
 </audio>　</td>
@@ -60,6 +67,12 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
         Your browser does not support the
         <code>audio</code> element.
 </audio>　</td>
+<td ALIGN=CENTER>　<audio
+    controls
+    src="final project/male/audio supervise/front.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>　</td>
 </tr>
 <tr>
 <td ALIGN=CENTER>　<img alt="" src="img/C.png" />　</td>
@@ -78,6 +91,12 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 <td ALIGN=CENTER>　<audio
     controls
     src="final project/male/audio supervise/90.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>　</td>
+<td ALIGN=CENTER>　<audio
+    controls
+    src="final project/male/audio supervise/front.wav">
         Your browser does not support the
         <code>audio</code> element.
 </audio>　</td>
