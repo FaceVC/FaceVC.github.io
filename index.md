@@ -22,7 +22,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 <td ALIGN=CENTER valign=CENTER>　<img alt="" src="img/B.jpg" width="200"/>　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/A.jpg" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/A.jpg" width="200"/>　</td>
 <td ALIGN=CENTER VALIGN=CENTER>　<audio
     controls
     src="audio/A2A.wav">
@@ -37,7 +37,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 </audio>　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/B.jpg" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/B.jpg" width="200"/>　</td>
 <td ALIGN=CENTER>　<audio
     controls
     src="audio/A2B.wav">
@@ -52,7 +52,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 </audio>　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/C.jpg" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/C.jpg" width="200"/>　</td>
 <td ALIGN=CENTER>　<audio
     controls
     src="audio/A2C.wav">
@@ -67,7 +67,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 </audio>　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/D.jpg" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/D.jpg" width="200"/>　</td>
 <td ALIGN=CENTER>　<audio
     controls
     src="audio/A2D.wav">
