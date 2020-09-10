@@ -9,7 +9,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 
 **2. Zero-Shot Conversion**
 
-**4. Failure Case**
+**3. Failure Case**
 
 ## Many-to-Many Conversion
 
