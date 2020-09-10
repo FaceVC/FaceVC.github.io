@@ -9,8 +9,6 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 
 **2. Zero-Shot Conversion**
 
-**3. Interperlation**
-
 **4. Failure Case**
 
 ## Many-to-Many Conversion
@@ -153,6 +151,5 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 </tr></tbody></table>
 
 
-## Interperlation
 
 ## Failure Case
