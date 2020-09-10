@@ -188,5 +188,4 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
         Your browser does not support the
         <code>audio</code> element.
 </audio>　</td>
-</tr>
 </tr></tbody></table>
