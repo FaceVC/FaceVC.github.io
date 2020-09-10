@@ -18,11 +18,11 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody><tr>
 <td ALIGN=CENTER>　<p>Speaker photo</p>　</td>
-<td ALIGN=CENTER>　<img alt="" src="img/A.png" />　</td>
-<td ALIGN=CENTER>　<img alt="" src="img/B.png" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/A.jpg" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/B.jpg" />　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/A.png" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/A.jpg" />　</td>
 <td ALIGN=CENTER>　<audio
     controls
     src="audio/A2A.wav">
@@ -37,7 +37,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 </audio>　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/B.png" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/B.jpg" />　</td>
 <td ALIGN=CENTER>　<audio
     controls
     src="audio/A2B.wav">
@@ -52,7 +52,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 </audio>　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/C.png" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/C.jpg" />　</td>
 <td ALIGN=CENTER>　<audio
     controls
     src="audio/A2C.wav">
@@ -67,7 +67,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 </audio>　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/D.png" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/D.jpg" />　</td>
 <td ALIGN=CENTER>　<audio
     controls
     src="audio/A2D.wav">
@@ -92,37 +92,37 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 <td ALIGN=CENTER>　<p>Ground Truth Voice</p>　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/A.png" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/E.jpg" />　</td>
 <td ALIGN=CENTER>　<audio
     controls
-    src="audio/A_gen.wav">
+    src="audio/E_gen.wav">
         Your browser does not support the
         <code>audio</code> element.
 </audio>　</td>
 <td ALIGN=CENTER>　<audio
     controls
-    src="audio/A_ori.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-</tr>
-<tr>
-<td ALIGN=CENTER>　<img alt="" src="img/B.png" />　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/B_gen.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/B_ori.wav">
+    src="audio/E_ori.wav">
         Your browser does not support the
         <code>audio</code> element.
 </audio>　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/C.png" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/F.jpg" />　</td>
+<td ALIGN=CENTER>　<audio
+    controls
+    src="audio/F_gen.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>　</td>
+<td ALIGN=CENTER>　<audio
+    controls
+    src="audio/F_ori.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>　</td>
+</tr>
+<tr>
+<td ALIGN=CENTER>　<img alt="" src="img/G.jpg" />　</td>
 <td ALIGN=CENTER>　<audio
     controls
     src="audio/C_gen.wav">
@@ -137,7 +137,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 </audio>　</td>
 </tr>
 <tr>
-<td ALIGN=CENTER>　<img alt="" src="img/D.png" />　</td>
+<td ALIGN=CENTER>　<img alt="" src="img/D.jpg" />　</td>
 <td ALIGN=CENTER>　<audio
     controls
     src="audio/D_gen.wav">
