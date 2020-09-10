@@ -23,7 +23,7 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 </tr>
 <tr>
 <td ALIGN=CENTER>　<img alt="" src="img/A.jpg" />　</td>
-<td ALIGN=CENTER>　<audio
+<td ALIGN=CENTER VALIGN=MIDDLE>　<audio
     controls
     src="audio/A2A.wav">
         Your browser does not support the
