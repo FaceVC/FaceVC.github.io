@@ -153,3 +153,40 @@ This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Convers
 
 
 ## Failure Case
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+<tbody><tr>
+<td ALIGN=CENTER>　<p>Speaker photo</p>　</td>
+<td ALIGN=CENTER>　<p>Synthesized Voice</p>　</td>
+<td ALIGN=CENTER>　<p>Ground Truth Voice</p>　</td>
+</tr>
+<tr>
+<td ALIGN=CENTER>　<img alt="" src="img/J.jpg"  width="200"/>　</td>
+<td ALIGN=CENTER>　<audio
+    controls
+    src="audio/J_gen.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>　</td>
+<td ALIGN=CENTER>　<audio
+    controls
+    src="audio/J_ori.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>　</td>
+</tr>
+<tr>
+<td ALIGN=CENTER>　<img alt="" src="img/K.jpg"  width="200"/>　</td>
+<td ALIGN=CENTER>　<audio
+    controls
+    src="audio/K_gen.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>　</td>
+<td ALIGN=CENTER>　<audio
+    controls
+    src="audio/K_ori.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>　</td>
+</tr>
+</tr></tbody></table>
