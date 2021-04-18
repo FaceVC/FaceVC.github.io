@@ -14,13 +14,13 @@ This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Le
 **4. 
 
 
-## Many-to-Many Conversion
+## FaceVC demo
 
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody><tr>
 <td ALIGN=CENTER valign=CENTER>　<p>Speaker photo</p>　</td>
-<td ALIGN=CENTER valign=CENTER>　<img alt="" src="img/A.jpg" width="150"/>　</td>
-<td ALIGN=CENTER valign=CENTER>　<img alt="" src="img/B.jpg" width="150"/>　</td>
+<td ALIGN=CENTER valign=CENTER>　<p>FaceVC</p>　</td>
+<td ALIGN=CENTER valign=CENTER>　<p>Ground Truth</p>　</td>
 </tr>
 <tr>
 <td ALIGN=CENTER>　<img alt="" src="img/A.jpg" width="150"/>　</td>
