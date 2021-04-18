@@ -1,17 +1,18 @@
 # FaceVC
 
-This is the demo webpage for the expiriments in 'FaceVC: Zero-Shot Voice Conversion with Speaker Embedding from Face Images'.
+This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Learning the Voice behind a Face'.
 
 
 ## Outline
 
-**1. Many-to-Many Conversion**
+**1. FaceVC demo**
 
-**2. Zero-Shot Conversion**
+**2. Conversion Interpolation**
 
 **3. Failure Case**
 
-**4. Conversion Interpolation**
+**4. 
+
 
 ## Many-to-Many Conversion
 
