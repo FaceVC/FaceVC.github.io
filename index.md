@@ -188,4 +188,3 @@ This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Le
                 <code>audio</code> element.
         </audio>　</td>
     </tr>
-</tbody></table>
