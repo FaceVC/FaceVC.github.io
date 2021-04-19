@@ -50,6 +50,21 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         </audio>　</td>
     </tr>
     <tr>
+        <td ALIGN=CENTER>　<img alt="" src="img/male/MHN1gqrXMUM_00007.jpg" width="150"/>　</td>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            src="Gwarp_fixG_MSE_tune1/p333_027.npyxMHN1gqrXMUM-00024.npy.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            src="GT/MHN1gqrXMUM-00001.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+    </tr>
+    <tr>
         <td ALIGN=CENTER>　<img alt="" src="img/female/0wpCZxiAQzw_00037.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
@@ -60,21 +75,6 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
             src="GT/0wpCZxiAQzw-00001.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
-    </tr>
-    <tr>
-        <td ALIGN=CENTER>　<img alt="" src="img/male/MHN1gqrXMUM_00026.jpg" width="150"/>　</td>
-        <td ALIGN=CENTER VALIGN=CENTER>　<audio
-            controls
-            src="Gwarp_fixG_MSE_tune1/p333_027.npyxMHN1gqrXMUM-00024.npy.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
-        <td ALIGN=CENTER VALIGN=CENTER>　<audio
-            controls
-            src="GT/MHN1gqrXMUM-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
