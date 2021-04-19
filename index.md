@@ -22,7 +22,7 @@ This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Le
         <td ALIGN=CENTER valign=CENTER>　<p>Ground Truth</p>　</td>
     </tr>
     <tr>
-        <td ALIGN=CENTER>　<img alt="" src="img/male/06M8qY7Q74Y-00015.jpg" width="150"/>　</td>
+        <td ALIGN=CENTER>　<img alt="" src="img/male/06M8qY7Q74Y_00015.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
             src="audio/Gwarp_fixG_MSE_tune1/p333_027.npyx06M8qY7Q74Y-00001.npy.wav">
