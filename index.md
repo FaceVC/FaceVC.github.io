@@ -137,39 +137,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         <td ALIGN=CENTER>　<p>0.0A + 1.0B</p>　</td>
         <td ALIGN=CENTER>　<audio
             controls
-            src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_0.0.wav">
+            src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_1.0.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
     <tr>
         <td ALIGN=CENTER>　<p>0.2A + 0.8B</p>　</td>
-        <td ALIGN=CENTER>　<audio
-            controls
-            src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_0.2.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
-    </tr>
-    <tr>
-        <td ALIGN=CENTER>　<p>0.4A + 0.6B</p>　</td>
-        <td ALIGN=CENTER>　<audio
-            controls
-            src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_0.4.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
-    </tr>
-    <tr>
-        <td ALIGN=CENTER>　<p>0.6A + 0.4B</p>　</td>
-        <td ALIGN=CENTER>　<audio
-            controls
-            src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_0.6.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
-    </tr>
-    <tr>
-        <td ALIGN=CENTER>　<p>0.8A + 0.2B</p>　</td>
         <td ALIGN=CENTER>　<audio
             controls
             src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_0.8.wav">
@@ -178,10 +151,37 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         </audio>　</td>
     </tr>
     <tr>
+        <td ALIGN=CENTER>　<p>0.4A + 0.6B</p>　</td>
+        <td ALIGN=CENTER>　<audio
+            controls
+            src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_0.6.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+    </tr>
+    <tr>
+        <td ALIGN=CENTER>　<p>0.6A + 0.4B</p>　</td>
+        <td ALIGN=CENTER>　<audio
+            controls
+            src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_0.4.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+    </tr>
+    <tr>
+        <td ALIGN=CENTER>　<p>0.8A + 0.2B</p>　</td>
+        <td ALIGN=CENTER>　<audio
+            controls
+            src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_0.2.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+    </tr>
+    <tr>
         <td ALIGN=CENTER>　<p>1.0A + 0.0B</p>　</td>
         <td ALIGN=CENTER>　<audio
             controls
-            src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_1.0.wav">
+            src="Gwarp_fixG_MSE_tune1_inter/p237_086.npyx0SW0HFy9Et4-00002.npy_08ZWROqoTZo-00005.npy_0.0.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
