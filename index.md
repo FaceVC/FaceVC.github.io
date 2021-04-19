@@ -7,9 +7,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 
 **1. FaceVC demo**
 
-**2. Conversion Interpolation**
-
-**3. Failure Case**
+**2. Conversion Interpolation*
 
 
 ## FaceVC demo
