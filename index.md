@@ -25,13 +25,13 @@ This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Le
         <td ALIGN=CENTER>　<img alt="" src="img/male/06M8qY7Q74Y_00015.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
-            src="audio/Gwarp_fixG_MSE_tune1/p333_027.npyx06M8qY7Q74Y-00001.npy.wav">
+            src="Gwarp_fixG_MSE_tune1/p333_027.npyx06M8qY7Q74Y-00001.npy.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
-            src="audio/GT/06M8qY7Q74Y-00001.wav">
+            src="GT/06M8qY7Q74Y-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
@@ -40,13 +40,13 @@ This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Le
         <td ALIGN=CENTER>　<img alt="" src="img/male/08ZWROqoTZo_00026.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
-            src="audio/Gwarp_fixG_MSE_tune1/p333_027x08ZWROqoTZo-00001.npy.wav">
+            src="Gwarp_fixG_MSE_tune1/p333_027x08ZWROqoTZo-00001.npy.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
-            src="audio/GT/08ZWROqoTZo-00001.wav">
+            src="GT/08ZWROqoTZo-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
@@ -55,13 +55,13 @@ This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Le
         <td ALIGN=CENTER>　<img alt="" src="img/female/0akiEFwtkyA_00004.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
-            src="audio/Gwarp_fixG_MSE_tune1/p333_027x0akiEFwtkyA-00001.npy.wav">
+            src="Gwarp_fixG_MSE_tune1/p333_027x0akiEFwtkyA-00001.npy.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
-            src="audio/GT/0akiEFwtkyA-00001.wav">
+            src="GT/0akiEFwtkyA-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
@@ -70,13 +70,13 @@ This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Le
         <td ALIGN=CENTER>　<img alt="" src="img/female/0wpCZxiAQzw_00037.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
-            src="audio/Gwarp_fixG_MSE_tune1/p333_027x0wpCZxiAQzw-00001.npy.wav">
+            src="Gwarp_fixG_MSE_tune1/p333_027x0wpCZxiAQzw-00001.npy.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
-            src="audio/GT/0wpCZxiAQzw-00001.wav">
+            src="GT/0wpCZxiAQzw-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
@@ -84,114 +84,47 @@ This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Le
 </tbody></table>
 
 
-## Zero-Shot Conversion
-
-<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
-<tbody><tr>
-<td ALIGN=CENTER>　<p>Speaker photo</p>　</td>
-<td ALIGN=CENTER>　<p>Synthesized Voice</p>　</td>
-<td ALIGN=CENTER>　<p>Ground Truth Voice</p>　</td>
-</tr>
-<tr>
-<td ALIGN=CENTER>　<img alt="" src="img/E.jpg"  width="150"/>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/E_gen.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/E_ori.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-</tr>
-<tr>
-<td ALIGN=CENTER>　<img alt="" src="img/F.jpg"  width="150"/>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/F_gen.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/F_ori.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-</tr>
-<tr>
-<td ALIGN=CENTER>　<img alt="" src="img/G.jpg"  width="150"/>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/G_gen.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/G_ori.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-</tr>
-<tr>
-<td ALIGN=CENTER>　<img alt="" src="img/H.jpg"  width="150"/>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/H_gen.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/H_ori.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-</tr></tbody></table>
-
 
 
 ## Failure Case
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
-<tbody><tr>
-<td ALIGN=CENTER>　<p>Speaker photo</p>　</td>
-<td ALIGN=CENTER>　<p>Synthesized Voice</p>　</td>
-<td ALIGN=CENTER>　<p>Ground Truth Voice</p>　</td>
-</tr>
-<tr>
-<td ALIGN=CENTER>　<img alt="" src="img/J.jpg"  width="150"/>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/J_gen.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/J_ori.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-</tr>
-<tr>
-<td ALIGN=CENTER>　<img alt="" src="img/K.jpg"  width="150"/>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/K_gen.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-<td ALIGN=CENTER>　<audio
-    controls
-    src="audio/K_ori.wav">
-        Your browser does not support the
-        <code>audio</code> element.
-</audio>　</td>
-</tr></tbody></table>
+<tbody>
+    <tr>
+        <td ALIGN=CENTER>　<p>Speaker photo</p>　</td>
+        <td ALIGN=CENTER>　<p>Synthesized Voice</p>　</td>
+        <td ALIGN=CENTER>　<p>Ground Truth Voice</p>　</td>
+    </tr>
+    <tr>
+        <td ALIGN=CENTER>　<img alt="" src="img/J.jpg"  width="150"/>　</td>
+        <td ALIGN=CENTER>　<audio
+            controls
+            src="audio/J_gen.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+        <td ALIGN=CENTER>　<audio
+            controls
+            src="audio/J_ori.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+    </tr>
+    <tr>
+        <td ALIGN=CENTER>　<img alt="" src="img/K.jpg"  width="150"/>　</td>
+        <td ALIGN=CENTER>　<audio
+            controls
+            src="audio/K_gen.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+        <td ALIGN=CENTER>　<audio
+            controls
+            src="audio/K_ori.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+    </tr>
+</tbody></table>
 
 
 
