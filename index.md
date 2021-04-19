@@ -125,10 +125,6 @@ This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Le
         <td ALIGN=CENTER>　<img alt="" src="img/female/0SW0HFy9Et4_00011.jpg"  width="150"/>　</td>
         <td ALIGN=CENTER>　<img alt="" src="img/male/08ZWROqoTZo_00026.jpg"  width="150"/>　</td>
     </tr>
-</tbody></table>
-
-
-</tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody>
