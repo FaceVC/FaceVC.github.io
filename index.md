@@ -1,6 +1,6 @@
 # FaceVC
 
-This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Learning the Voice behind a Face'.
+This is the demo webpage for the paper 'Face-based Voice Conversion: Learning the Voice behind a Face'.
 
 
 ## Outline
