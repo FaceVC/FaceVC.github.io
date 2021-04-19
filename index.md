@@ -37,16 +37,16 @@ This is the demo webpage for the expiriments in 'Face-based Voice Conversion: Le
         </audio>　</td>
     </tr>
     <tr>
-        <td ALIGN=CENTER>　<img alt="" src="img/male/8ZWROqoTZo_00026.jpg" width="150"/>　</td>
+        <td ALIGN=CENTER>　<img alt="" src="img/male/08ZWROqoTZo_00026.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
-            src="audio/Gwarp_fixG_MSE_tune1/p333_027x8ZWROqoTZo-00001.npy.wav">
+            src="audio/Gwarp_fixG_MSE_tune1/p333_027x08ZWROqoTZo-00001.npy.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
-            src="audio/GT/8ZWROqoTZo-00001.wav">
+            src="audio/GT/08ZWROqoTZo-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
