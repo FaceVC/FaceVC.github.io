@@ -114,6 +114,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 
 ## Conversion Interpolation
 ### Case 1
+
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody>
     <tr>
@@ -191,6 +192,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 
 
 ### Case 2
+
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody>
     <tr>
