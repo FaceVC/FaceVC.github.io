@@ -191,7 +191,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 </tbody></table>
 
 
-<h2>Case 2</h2>
+<h3>Case 2</h3>
 
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody>
