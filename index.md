@@ -187,7 +187,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
                 <code>audio</code> element.
         </audio>　</td>
     </tr>
-
+</tbody></table>
 
 
 ### Case 2
@@ -264,3 +264,4 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
                 <code>audio</code> element.
         </audio>　</td>
     </tr>
+</tbody></table>
