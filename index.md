@@ -15,10 +15,10 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody>
     <tr>
-        <td ALIGN=CENTER valign=CENTER>　<p>Speaker photo</p>　</td>
-        <td ALIGN=CENTER valign=CENTER>　<p>FaceVC<br>(voice style comes from face)<br>(trained on LRS3 and VCTK)</p>　</td>
-        <td ALIGN=CENTER valign=CENTER>　<p>AutoVC<br>(voice style comes from speech)<br>(trained on LRS3)</p>　</td>
-        <td ALIGN=CENTER valign=CENTER>　<p>Ground Truth</p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>Speaker photo</b></p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>FaceVC</b><br>(voice style comes from face)<br>(trained on LRS3 and VCTK)</p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>AutoV</b>C<br>(voice style comes from speech)<br>(trained on LRS3)</p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>Ground Truth<b></p>　</td>
     </tr>
     <tr>
         <td ALIGN=CENTER>　<img alt="" src="img/male/06M8qY7Q74Y_00015.jpg" width="150"/>　</td>
