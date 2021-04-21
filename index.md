@@ -17,7 +17,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
     <tr>
         <td ALIGN=CENTER valign=CENTER>　<p><b>Speaker photo</b></p>　</td>
         <td ALIGN=CENTER valign=CENTER>　<p><b>FaceVC</b><br>(voice style comes from face)<br>(trained on LRS3 and VCTK)</p>　</td>
-        <td ALIGN=CENTER valign=CENTER>　<p><b>AutoVC</b>C\<br>(voice style comes from speech)<br>(trained on LRS3)</p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>AutoVC</b><br>(voice style comes from speech)<br>(trained on LRS3)</p>　</td>
         <td ALIGN=CENTER valign=CENTER>　<p><b>Ground Truth<b></p>　</td>
     </tr>
     <tr>
