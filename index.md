@@ -16,7 +16,8 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 <tbody>
     <tr>
         <td ALIGN=CENTER valign=CENTER>　<p>Speaker photo</p>　</td>
-        <td ALIGN=CENTER valign=CENTER>　<p>FaceVC</p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p>FaceVC (voice style comes from face)</p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p>AutoVC (voice style comes from speech)</p>　</td>
         <td ALIGN=CENTER valign=CENTER>　<p>Ground Truth</p>　</td>
     </tr>
     <tr>
@@ -24,6 +25,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
             src="Gwarp_fixG_MSE_tune1/p333_027.npyx06M8qY7Q74Y-00001.npy.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            src="embeds_sound_270085_32_256_512_32_l1loss_lambda1_2280000/p333_027.npyx06M8qY7Q74Y-00001.npy.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
@@ -44,6 +51,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         </audio>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
+            src="embeds_sound_270085_32_256_512_32_l1loss_lambda1_2280000/p333_027.npyx05jJodDVJRQ-00002.npy.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
             src="GT/05jJodDVJRQ-00002.wav">
                 Your browser does not support the
                 <code>audio</code> element.
@@ -54,6 +67,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
             src="Gwarp_fixG_MSE_tune1/p333_027.npyxMHN1gqrXMUM-00024.npy.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            src="embeds_sound_270085_32_256_512_32_l1loss_lambda1_2280000/p333_027.npyxMHN1gqrXMUM-00024.npy.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
@@ -74,6 +93,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         </audio>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
+            src="embeds_sound_270085_32_256_512_32_l1loss_lambda1_2280000/p333_027.npyx0wpCZxiAQzw-00001.npy.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
             src="GT/0wpCZxiAQzw-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
@@ -89,6 +114,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         </audio>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
+            src="embeds_sound_270085_32_256_512_32_l1loss_lambda1_2280000/p333_027.npyx0akiEFwtkyA-00001.npy.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
             src="GT/0akiEFwtkyA-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
@@ -99,6 +130,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
             src="Gwarp_fixG_MSE_tune1/p333_027.npyx0SW0HFy9Et4-00001.npy.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>　</td>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            src="embeds_sound_270085_32_256_512_32_l1loss_lambda1_2280000/p333_027.npyx0SW0HFy9Et4-00001.npy.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
