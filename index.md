@@ -130,19 +130,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
     <tr>
         <td ALIGN=CENTER valign=CENTER>　<p>Speaker photo</p>　</td>
         <td ALIGN=CENTER valign=CENTER>　<p>FaceVC</p>　</td>
-        <td ALIGN=CENTER valign=CENTER>　<p>Ground Truth</p>　</td>
     </tr>
     <tr>
         <td ALIGN=CENTER>　<img alt="" src="img/male/06M8qY7Q74Y_00015.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
             src="Gwarp_fixG_MSE_tune1/p333_027.npyx06M8qY7Q74Y-00001.npy.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
-        <td ALIGN=CENTER VALIGN=CENTER>　<audio
-            controls
-            src="GT/06M8qY7Q74Y-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
@@ -155,24 +148,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
-        <td ALIGN=CENTER VALIGN=CENTER>　<audio
-            controls
-            src="GT/05jJodDVJRQ-00002.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
     </tr>
     <tr>
         <td ALIGN=CENTER>　<img alt="" src="img/male/MHN1gqrXMUM_00007.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
             src="Gwarp_fixG_MSE_tune1/p333_027.npyxMHN1gqrXMUM-00024.npy.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
-        <td ALIGN=CENTER VALIGN=CENTER>　<audio
-            controls
-            src="GT/MHN1gqrXMUM-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
@@ -185,12 +166,6 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
-        <td ALIGN=CENTER VALIGN=CENTER>　<audio
-            controls
-            src="GT/0wpCZxiAQzw-00001.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
     </tr>
     <tr>
         <td ALIGN=CENTER>　<img alt="" src="img/female/0akiEFwtkyA_00004.jpg" width="150"/>　</td>
@@ -200,24 +175,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
-        <td ALIGN=CENTER VALIGN=CENTER>　<audio
-            controls
-            src="GT/0akiEFwtkyA-00001.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
     </tr>
     <tr>
         <td ALIGN=CENTER>　<img alt="" src="img/female/0SW0HFy9Et4_00011.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
             src="Gwarp_fixG_MSE_tune1/p333_027.npyx0SW0HFy9Et4-00001.npy.wav">
-                Your browser does not support the
-                <code>audio</code> element.
-        </audio>　</td>
-        <td ALIGN=CENTER VALIGN=CENTER>　<audio
-            controls
-            src="GT/0SW0HFy9Et4-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
