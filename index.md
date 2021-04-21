@@ -11,7 +11,9 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 
 
 ## FaceVC demo
-
+#player { 
+    width: 50%; 
+}
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody>
     <tr>
@@ -24,6 +26,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         <td ALIGN=CENTER>　<img alt="" src="img/male/06M8qY7Q74Y_00015.jpg" width="150"/>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
+            id="player"
             src="Gwarp_fixG_MSE_tune1/p333_027.npyx06M8qY7Q74Y-00001.npy.wav">
                 Your browser does not support the
                 <code>audio</code> element.
