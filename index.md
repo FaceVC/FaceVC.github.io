@@ -11,9 +11,6 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 
 
 ## FaceVC demo
-#player { 
-    width: 50%; 
-}
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody>
     <tr>
