@@ -9,7 +9,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 
 **2. Voice style interpolation**
 
-**3. Conversion results of each stages**
+**3. Conversion results of each stage**
 
 ## FaceVC demo
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
@@ -306,7 +306,7 @@ Note that the voice styles are generated from the facial characteristics, so tha
 
 
 
-## Conversion results of each stages
+## Conversion results of each stage
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody>
     <tr>
