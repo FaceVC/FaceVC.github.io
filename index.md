@@ -132,7 +132,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         <td ALIGN=CENTER valign=CENTER>　<p>FaceVC</p>　</td>
     </tr>
     <tr>
-        <td ALIGN=CENTER>　<img alt="" src="img/male/06M8qY7Q74Y_00015.jpg" width="150"/>　</td>
+        <td ALIGN=CENTER>　<p>0.0A + 1.0B</p>　</td>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
             controls
             src="Gwarp_fixG_MSE_tune1/p333_027.npyx06M8qY7Q74Y-00001.npy.wav">
