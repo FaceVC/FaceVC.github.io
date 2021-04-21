@@ -115,7 +115,6 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 <h3>Case 1</h3>
 
 <div><table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
-
     <tr>
         <td ALIGN=CENTER>　<p>Speaker A</p>　</td>
         <td ALIGN=CENTER>　<p>Speaker B</p>　</td>
