@@ -115,7 +115,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 <h3>Case 1</h3>
 
 <div><table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
-<tbody>
+
     <tr>
         <td ALIGN=CENTER>　<p>Speaker A</p>　</td>
         <td ALIGN=CENTER>　<p>Speaker B</p>　</td>
@@ -124,13 +124,12 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
         <td ALIGN=CENTER>　<img alt="" src="img/female/0SW0HFy9Et4_00011.jpg"  width="150"/>　</td>
         <td ALIGN=CENTER>　<img alt="" src="img/male/08ZWROqoTZo_00026.jpg"  width="150"/>　</td>
     </tr>
-</tbody></table>
+</table>
 <br>
 </div>
 
 
 <div><table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
-<tbody>
     <tr>
         <td ALIGN=CENTER>　<p>Ratio</p>　</td>
         <td ALIGN=CENTER>　<p>Audio</p>　</td>
@@ -188,4 +187,4 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
                 <code>audio</code> element.
         </audio>　</td>
     </tr>
-</tbody></table></div>
+</table></div>
