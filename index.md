@@ -7,8 +7,9 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 
 **1. FaceVC demo**
 
-**2. Voice Style Interpolation**
+**2. Voice style interpolation**
 
+**3. Conversion results of each stages**
 
 ## FaceVC demo
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
@@ -300,5 +301,98 @@ Note that the voice styles are from personal facial characteristic, so that the 
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>　</td>
+    </tr>
+</tbody></table>
+
+
+
+## Conversion results of each stages
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+<tbody>
+    <tr>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>Stage I</b><br>(voice style from face + content from LRS3)</p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>Stage II</b><br>(voice style from speech + content from VCTK)</p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>Inference</b>(voice style from face + content from VCTK)</p>　</td>
+    </tr>
+    <tr>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            id="player"
+            src="3stage/stageI-1.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>
+        <br> <audio
+            controls
+            src="3stage/stageI-2.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>
+        <br> <audio
+            controls
+            src="3stage/stageI-3.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>
+        <br> <audio
+            controls
+            src="3stage/stageI-4.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio></td>
+    </tr>
+    <tr>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            id="player"
+            src="3stage/stageII-1.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>
+        <br> <audio
+            controls
+            src="3stage/stageII-2.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>
+        <br> <audio
+            controls
+            src="3stage/stageII-3.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>
+        <br> <audio
+            controls
+            src="3stage/stageII-4.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio></td>
+    </tr>
+    <tr>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            id="player"
+            src="3stage/stageIII-1.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>
+        <br> <audio
+            controls
+            src="3stage/stageIII-2.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>
+        <br> <audio
+            controls
+            src="3stage/stageIII-3.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>
+        <br> <audio
+            controls
+            src="3stage/stageIII-4.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio></td>
     </tr>
 </tbody></table>
