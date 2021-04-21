@@ -312,7 +312,7 @@ Note that the voice styles are from personal facial characteristic, so that the 
     <tr>
         <td ALIGN=CENTER valign=CENTER>　<p><b>Stage I</b><br>(voice style from face + content from LRS3)</p>　</td>
         <td ALIGN=CENTER valign=CENTER>　<p><b>Stage II</b><br>(voice style from speech + content from VCTK)</p>　</td>
-        <td ALIGN=CENTER valign=CENTER>　<p><b>Inference</b>(voice style from face + content from VCTK)</p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>Inference</b><br>(voice style from face + content from VCTK)</p>　</td>
     </tr>
     <tr>
         <td ALIGN=CENTER VALIGN=CENTER>　<audio
