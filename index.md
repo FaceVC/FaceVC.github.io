@@ -7,7 +7,7 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 
 **1. FaceVC demo**
 
-**2. Conversion Interpolation**
+**2. Voice Style Interpolation**
 
 
 ## FaceVC demo
@@ -151,7 +151,10 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 
 <h2>Conversion Interpolation</h2>
 Since FaceVC is applied reparamterization trick, speaker embedding can be interpolated. 
+
 Following samples show the interpolated voice style between 2 specified speakers.
+
+Note that voice styles are from personal facial characteristic, so that the interpolation may not be presented right on the vocal feature axes.
 <br>
 <br>
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
