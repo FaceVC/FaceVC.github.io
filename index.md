@@ -117,14 +117,10 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
     <tr>
         <td ALIGN=CENTER>　<p>Speaker A</p>　</td>
         <td ALIGN=CENTER>　<p>Speaker B</p>　</td>
-        <td ALIGN=CENTER>　<p>Speaker C</p>　</td>
-        <td ALIGN=CENTER>　<p>Speaker D</p>　</td>
     </tr>
     <tr>
         <td ALIGN=CENTER>　<img alt="" src="img/female/0SW0HFy9Et4_00011.jpg"  width="150"/>　</td>
         <td ALIGN=CENTER>　<img alt="" src="img/male/08ZWROqoTZo_00026.jpg"  width="150"/>　</td>
-        <td ALIGN=CENTER>　<img alt="" src="img/female/0akiEFwtkyA_00004.jpg"  width="150"/>　</td>
-        <td ALIGN=CENTER>　<img alt="" src="img/male/06M8qY7Q74Y_00015.jpg"  width="150"/>　</td>
     </tr>
 </table>
 <br>
