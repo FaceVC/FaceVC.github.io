@@ -397,6 +397,7 @@ Note that the voice styles are generated from the facial characteristics, so tha
 
 
 ## Necessity of Stage I
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody>
     <tr>
         <td ALIGN=CENTER valign=CENTER>　<p><b>Face Encoder pretrained in Stage I</b></p>　</td>
