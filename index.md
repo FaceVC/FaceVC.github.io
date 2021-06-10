@@ -11,6 +11,8 @@ This is the demo webpage for the paper 'Face-based Voice Conversion: Learning th
 
 **3. Conversion results of each stage**
 
+**4. Necessity of Stage I**
+
 ## FaceVC demo
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 <tbody>
@@ -387,6 +389,39 @@ Note that the voice styles are generated from the facial characteristics, so tha
         <br> <audio
             controls
             src="3stage/stageIII-4.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio></td>
+    </tr>
+</tbody></table>
+
+
+## Necessity of Stage I
+<tbody>
+    <tr>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>Face Encoder pretrained in Stage I</b></p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>Face Encoder trained from scratch in Stage III</b></p>　</td>
+        <td ALIGN=CENTER valign=CENTER>　<p><b>Ground Truth</b></p>　</td>
+    </tr>
+    <tr>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            id="player"
+            src="stageI/prestageI.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio></td>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            id="player"
+            src="stageI/nostageI.wav">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio></td>
+        <td ALIGN=CENTER VALIGN=CENTER>　<audio
+            controls
+            id="player"
+            src="GT/08ZWROqoTZo-00001.wav">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio></td>
